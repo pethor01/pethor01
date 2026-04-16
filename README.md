@@ -2,7 +2,7 @@
 
 🚀 **Senior Ruby on Rails Engineer**
 💻 Hotwire (Turbo + Stimulus) • APIs • AWS • Scalable SaaS
-🌍 Based in the Philippines | Open to Remote (UK/EU/US)
+🌍 Based in the Philippines | Open to Remote (AU/UK/EU/US)
 
 ---
 
