@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Peter Diesta
 
-🚀 **Senior Ruby on Rails Engineer**
+🚀 ** Ruby on Rails Engineer**
 💻 Hotwire (Turbo + Stimulus) • APIs • AWS • Scalable SaaS
 🌍 Based in the Philippines | Open to Remote (AU/UK/EU/US)
 
